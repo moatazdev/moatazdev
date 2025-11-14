@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x200/0a0a0a/ffffff?text=Moataz+-+IT+Student+%26+Software+Developer" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Moataz</h1>
 <h3 align="center">IT Student | Software Developer | Problem Solver</h3>
