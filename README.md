@@ -64,10 +64,8 @@ I enjoy building applications, learning new technologies, and tackling challengi
 
 ## 📌 Featured Projects
 > Projects coming soon! Stay tuned.
-
-- 🔹 **Project 1 — Software Tool** *(Description coming soon)*  
-- 🔹 **Project 2 — Web Application** *(Description coming soon)*  
-- 🔹 **Project 3 — IT Automation Script** *(Description coming soon)*  
+ 
+- 🔹 **Project 1 — Web Application** *(Description coming soon)*  
 
 ---
 
